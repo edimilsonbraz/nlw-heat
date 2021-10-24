@@ -3,12 +3,12 @@ Este projeto foi desenvolvimento durante a NLW-Heat(Next Level Week) da Rocketse
 
 ---
 <h1 align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="images/cracha.png" width="900px;"/>
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="images/cracha1.png" width="900px;"/>
 </h1>
 
 
 ## :computer: Projeto
-Cracha do DoWhile
+Cracha virtual responsivo, onde aplicamos conceitos de "Como consumir uma API"(API do Github),  tratar os dados em json e manipular estes dados no front e várias dicas de css pra deixar este projeto com uma cara profissional.
 
 Dê uma conferida [aqui](https://edimilsonbraz.github.io/nlw-heat/)
 ---
